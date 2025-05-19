@@ -1,0 +1,2 @@
+# Micro_it-task2
+PASSWORD GENERATOR
